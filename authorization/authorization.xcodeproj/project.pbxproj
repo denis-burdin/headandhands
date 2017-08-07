@@ -483,6 +483,7 @@
 				A2D9BEE41F3748AF00F5AF15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A2D9BEE51F3748AF00F5AF15 /* Build configuration list for PBXNativeTarget "authorizationTests" */ = {
 			isa = XCConfigurationList;
@@ -491,6 +492,7 @@
 				A2D9BEE71F3748AF00F5AF15 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
